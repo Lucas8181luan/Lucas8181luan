@@ -2,7 +2,6 @@
 
 <div> 
   <a href="https://www.python.org/" target="_blank"><img src="https://img.icons8.com/color/2x/python.png" width="120" alt="Python"></a>
-  <a href="https://img.icons8.com/color/2x/docker.png" target="_blank"><img src="https://img.icons8.com/color/2x/docker.png" width="120" alt="Docker"></a>
   <a href="https://img.icons8.com/color/2x/mysql.png" target="_blank"><img src="https://img.icons8.com/color/2x/mysql.png" width="120" alt="MySQL"></a>
   <a href="https://code.visualstudio.com/" target="_blank"><img src="https://img.icons8.com/color/2x/visual-studio-code-2019.png" width="120" alt="VSCode"></a>
 </div>
