@@ -5,7 +5,3 @@
 ## 🚀 DEV JÚNIOR
 
 Sou um desenvolvedor júnior apaixonado por tecnologia e em constante aprendizado. Estou focado em expandir meus conhecimentos e construir projetos incríveis!
-
-## 💻 Tecnologias que Estou Estudando
-
-
