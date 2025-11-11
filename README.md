@@ -4,9 +4,14 @@
 
 <div align="center">
 
-![Estatísticas GitHub](https://github-readme-stats.vercel.app/api?username=Lucas8181luan&show_icons=true&theme=radical&hide_border=true)
+### Linguagens de Programação
+![Java](https://img.shields.io/badge/Java-Expert-orange?style=flat-square)
+![Python](https://img.shields.io/badge/Python-Intermediate-yellow?style=flat-square)
+![SQL](https://img.shields.io/badge/SQL-Intermediate-yellow?style=flat-square)
 
-![Linguagens Mais Usadas](https://github-readme-stats.vercel.app/api/top-langs/?username=Lucas8181luan&layout=compact&theme=radical&hide_border=true)
+### Ferramentas
+![Docker](https://img.shields.io/badge/Docker-Beginner-green?style=flat-square)
+![VS Code](https://img.shields.io/badge/VS_Code-Expert-orange?style=flat-square)
 
 </div>
 
