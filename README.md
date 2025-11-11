@@ -6,19 +6,14 @@
 
 </div>
 
-## <div align="center">📈 Estatísticas</div>
+## <div align="center">📈 Estatísticas GitHub</div>
 
 <div align="center">
 
-![Estatísticas GitHub](https://github-readme-stats.vercel.app/api?username=Lucas8181luan&show_icons=true&theme=dark&hide_border=true)
-
-</div>
-
-## <div align="center">💻 Linguagens Mais Usadas</div>
-
-<div align="center">
-
-![Linguagens Mais Usadas](https://github-readme-stats.vercel.app/api/top-langs/?username=Lucas8181luan&layout=compact&theme=dark&hide_border=true)
+<a href="https://github.com/Lucas8181luan">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Lucas8181luan&show_icons=true&theme=dark&hide_border=true" />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Lucas8181luan&layout=compact&theme=dark&hide_border=true" />
+</a>
 
 </div>
 
