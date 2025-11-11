@@ -4,9 +4,9 @@
 
 <div align="center">
 
-![Estatísticas GitHub](https://github-readme-stats.vercel.app/api?username=SEU_USERNAME&show_icons=true&theme=radical&hide_border=true)
+![Estatísticas GitHub](https://github-readme-stats.vercel.app/api?username=Lucas8181luan&show_icons=true&theme=radical&hide_border=true)
 
-![Linguagens Mais Usadas](https://github-readme-stats.vercel.app/api/top-langs/?username=SEU_USERNAME&layout=compact&theme=radical&hide_border=true)
+![Linguagens Mais Usadas](https://github-readme-stats.vercel.app/api/top-langs/?username=Lucas8181luan&layout=compact&theme=radical&hide_border=true)
 
 </div>
 
