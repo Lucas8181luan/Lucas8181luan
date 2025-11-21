@@ -6,16 +6,8 @@
 
 </div>
 
-## <div align="center">📈 Estatísticas GitHub</div>
-
-<div align="center">
-
-<a href="https://github.com/Lucas8181luan">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Lucas8181luan&show_icons=true&theme=dark&hide_border=true" />
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Lucas8181luan&layout=compact&theme=dark&hide_border=true" />
-</a>
-
-</div>
+<div align="center">📈 Estatísticas GitHub</div>
+<div align="center"><a href="https://github.com/Lucas8181luan"> <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Lucas8181luan&show_icons=true&theme=dark&hide_border=true" /> <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Lucas8181luan&layout=compact&theme=dark&hide_border=true&langs_count=8&exclude_repo=github-readme-stats" /> </a></div>
 
 ## <div align="center">🚀 DEV JÚNIOR</div>
 
